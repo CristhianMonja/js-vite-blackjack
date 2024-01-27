@@ -7,6 +7,7 @@ Pasos para ejecutar proyecto:
 3. Correr el devServer ```npm run dev```
 4. Abrir el proyecto en: ```localhost:3000```
 5. Cristhian Monja Test
+6. Prueba
 
 ## Producción
 
